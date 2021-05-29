@@ -33,6 +33,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF90E0A3266255AD002FE661 /* LimitedSubscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LimitedSubscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A4266263A3002FE661 /* Assign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Assign.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignUIKitExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A626627506002FE661 /* AssignExample3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignExample3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EFC228D9266248AB00D23AC3 /* CombinePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlaygroundApp.swift; sourceTree = "<group>"; };
 		EFC228DE266248AB00D23AC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +49,7 @@
 		EFC228F5266248AC00D23AC3 /* CombinePlaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CombinePlaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC228F9266248AC00D23AC3 /* CombinePlaygroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlaygroundUITests.swift; sourceTree = "<group>"; };
 		EFC228FB266248AC00D23AC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EFC2290926624ADF00D23AC3 /* Intro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Intro.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +77,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF90E0A226625597002FE661 /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				EFC2290926624ADF00D23AC3 /* Intro.playground */,
+				EF90E0A3266255AD002FE661 /* LimitedSubscription.playground */,
+				EF90E0A4266263A3002FE661 /* Assign.playground */,
+				EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */,
+				EF90E0A626627506002FE661 /* AssignExample3.playground */,
+			);
+			path = Playgrounds;
+			sourceTree = "<group>";
+		};
 		EFC228D0266248AB00D23AC3 = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +112,7 @@
 		EFC228DB266248AB00D23AC3 /* CombinePlayground */ = {
 			isa = PBXGroup;
 			children = (
+				EF90E0A226625597002FE661 /* Playgrounds */,
 				EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */,
 				EFC228DE266248AB00D23AC3 /* ContentView.swift */,
 				EFC228E0266248AC00D23AC3 /* Assets.xcassets */,
