@@ -37,6 +37,7 @@
 		EF90E0A4266263A3002FE661 /* Assign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Assign.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignUIKitExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A626627506002FE661 /* AssignExample3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignExample3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A726627900002FE661 /* AssignTO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignTO.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EFC228D9266248AB00D23AC3 /* CombinePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlaygroundApp.swift; sourceTree = "<group>"; };
 		EFC228DE266248AB00D23AC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 				EF90E0A4266263A3002FE661 /* Assign.playground */,
 				EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */,
 				EF90E0A626627506002FE661 /* AssignExample3.playground */,
+				EF90E0A726627900002FE661 /* AssignTO.playground */,
 			);
 			path = Playgrounds;
 			sourceTree = "<group>";

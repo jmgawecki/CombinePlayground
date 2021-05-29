@@ -46,6 +46,27 @@
 			<key>orderHint</key>
 			<integer>14</integer>
 		</dict>
+		<key>AssignTO (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>AssignTO (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>AssignTO (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
 		<key>AssignUIKitExample (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
