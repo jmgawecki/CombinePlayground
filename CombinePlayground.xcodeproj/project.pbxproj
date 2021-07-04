@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF90E0AC2663F35F002FE661 /* Follower.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF90E0AB2663F35F002FE661 /* Follower.swift */; };
 		EFC228DD266248AB00D23AC3 /* CombinePlaygroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */; };
 		EFC228DF266248AB00D23AC3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFC228DE266248AB00D23AC3 /* ContentView.swift */; };
 		EFC228E1266248AC00D23AC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFC228E0266248AC00D23AC3 /* Assets.xcassets */; };
@@ -38,6 +39,10 @@
 		EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignUIKitExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A626627506002FE661 /* AssignExample3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignExample3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A726627900002FE661 /* AssignTO.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignTO.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A82663B9EC002FE661 /* ReceiveOn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReceiveOn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0A92663E486002FE661 /* SubscribeOn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubscribeOn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0AA2663F181002FE661 /* DataTaskPublisher.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DataTaskPublisher.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF90E0AB2663F35F002FE661 /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
 		EFC228D9266248AB00D23AC3 /* CombinePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlaygroundApp.swift; sourceTree = "<group>"; };
 		EFC228DE266248AB00D23AC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +92,9 @@
 				EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */,
 				EF90E0A626627506002FE661 /* AssignExample3.playground */,
 				EF90E0A726627900002FE661 /* AssignTO.playground */,
+				EF90E0A82663B9EC002FE661 /* ReceiveOn.playground */,
+				EF90E0A92663E486002FE661 /* SubscribeOn.playground */,
+				EF90E0AA2663F181002FE661 /* DataTaskPublisher.playground */,
 			);
 			path = Playgrounds;
 			sourceTree = "<group>";
@@ -120,6 +128,7 @@
 				EFC228E0266248AC00D23AC3 /* Assets.xcassets */,
 				EFC228E5266248AC00D23AC3 /* Info.plist */,
 				EFC228E2266248AC00D23AC3 /* Preview Content */,
+				EF90E0AB2663F35F002FE661 /* Follower.swift */,
 			);
 			path = CombinePlayground;
 			sourceTree = "<group>";
@@ -280,6 +289,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EFC228DF266248AB00D23AC3 /* ContentView.swift in Sources */,
+				EF90E0AC2663F35F002FE661 /* Follower.swift in Sources */,
 				EFC228DD266248AB00D23AC3 /* CombinePlaygroundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

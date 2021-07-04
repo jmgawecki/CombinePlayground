@@ -18,6 +18,7 @@ var subscriber: AnyCancellable? = Timer.publish(every: 0.1, tolerance: nil, on: 
       print("received value: \(counter)")
    }
 
+
 DispatchQueue.main.asyncAfter(deadline: .now() + 5) {
    subscriber = nil
 }
