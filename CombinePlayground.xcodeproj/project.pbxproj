@@ -34,6 +34,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF7CA761270BA76400789EB3 /* Chapter4p2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter4p2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF7CA763270BAD6500789EB3 /* flatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = flatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A3266255AD002FE661 /* LimitedSubscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LimitedSubscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A4266263A3002FE661 /* Assign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Assign.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignUIKitExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -43,6 +45,15 @@
 		EF90E0A92663E486002FE661 /* SubscribeOn.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SubscribeOn.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0AA2663F181002FE661 /* DataTaskPublisher.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DataTaskPublisher.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0AB2663F35F002FE661 /* Follower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Follower.swift; sourceTree = "<group>"; };
+		EF996F2B270332AF0035FCD7 /* Chapter2p2.playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2p2.playground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F2C2703373B0035FCD7 /* Chapter2p3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2p3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F2D270362740035FCD7 /* Chapter2p4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2p4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F302703970C0035FCD7 /* Chapter2p5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2p5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F312703A1330035FCD7 /* Chapter2p6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2p6.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F32270433C00035FCD7 /* Chapter2Challenge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter2Challenge.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F3327043AAB0035FCD7 /* Chapter3p1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter3p1.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F3427043E480035FCD7 /* Chapter3p2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter3p2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF996F352704744F0035FCD7 /* Chapter3Challenge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter3Challenge.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EFC228D9266248AB00D23AC3 /* CombinePlayground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombinePlayground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombinePlaygroundApp.swift; sourceTree = "<group>"; };
 		EFC228DE266248AB00D23AC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +94,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF7CA762270BAD5400789EB3 /* WWDC */ = {
+			isa = PBXGroup;
+			children = (
+				EF7CA763270BAD6500789EB3 /* flatMap.playground */,
+			);
+			path = WWDC;
+			sourceTree = "<group>";
+		};
 		EF90E0A226625597002FE661 /* Playgrounds */ = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +116,23 @@
 				EF90E0AA2663F181002FE661 /* DataTaskPublisher.playground */,
 			);
 			path = Playgrounds;
+			sourceTree = "<group>";
+		};
+		EF996F2A270332860035FCD7 /* PlaygroundsLinkedInCourse */ = {
+			isa = PBXGroup;
+			children = (
+				EF996F2B270332AF0035FCD7 /* Chapter2p2.playground.playground */,
+				EF996F2C2703373B0035FCD7 /* Chapter2p3.playground */,
+				EF996F2D270362740035FCD7 /* Chapter2p4.playground */,
+				EF996F302703970C0035FCD7 /* Chapter2p5.playground */,
+				EF996F312703A1330035FCD7 /* Chapter2p6.playground */,
+				EF996F32270433C00035FCD7 /* Chapter2Challenge.playground */,
+				EF996F3327043AAB0035FCD7 /* Chapter3p1.playground */,
+				EF996F3427043E480035FCD7 /* Chapter3p2.playground */,
+				EF996F352704744F0035FCD7 /* Chapter3Challenge.playground */,
+				EF7CA761270BA76400789EB3 /* Chapter4p2.playground */,
+			);
+			path = PlaygroundsLinkedInCourse;
 			sourceTree = "<group>";
 		};
 		EFC228D0266248AB00D23AC3 = {
@@ -122,6 +158,8 @@
 		EFC228DB266248AB00D23AC3 /* CombinePlayground */ = {
 			isa = PBXGroup;
 			children = (
+				EF7CA762270BAD5400789EB3 /* WWDC */,
+				EF996F2A270332860035FCD7 /* PlaygroundsLinkedInCourse */,
 				EF90E0A226625597002FE661 /* Playgrounds */,
 				EFC228DC266248AB00D23AC3 /* CombinePlaygroundApp.swift */,
 				EFC228DE266248AB00D23AC3 /* ContentView.swift */,
