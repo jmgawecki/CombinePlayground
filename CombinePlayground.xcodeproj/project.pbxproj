@@ -34,8 +34,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF1A74CF2779E4E100E23F06 /* Merge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Merge.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF1A74D02779EAB500E23F06 /* Chapter4Challenge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter4Challenge.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF7CA761270BA76400789EB3 /* Chapter4p2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter4p2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF7CA763270BAD6500789EB3 /* flatMap.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = flatMap.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		EF8B91712715973A00A272E8 /* Chapter4p4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Chapter4p4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A3266255AD002FE661 /* LimitedSubscription.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = LimitedSubscription.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A4266263A3002FE661 /* Assign.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Assign.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		EF90E0A526626A05002FE661 /* AssignUIKitExample.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = AssignUIKitExample.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -94,6 +97,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EF1A74CE2779E4A600E23F06 /* Some */ = {
+			isa = PBXGroup;
+			children = (
+				EF1A74CF2779E4E100E23F06 /* Merge.playground */,
+			);
+			path = Some;
+			sourceTree = "<group>";
+		};
 		EF7CA762270BAD5400789EB3 /* WWDC */ = {
 			isa = PBXGroup;
 			children = (
@@ -131,6 +142,8 @@
 				EF996F3427043E480035FCD7 /* Chapter3p2.playground */,
 				EF996F352704744F0035FCD7 /* Chapter3Challenge.playground */,
 				EF7CA761270BA76400789EB3 /* Chapter4p2.playground */,
+				EF8B91712715973A00A272E8 /* Chapter4p4.playground */,
+				EF1A74D02779EAB500E23F06 /* Chapter4Challenge.playground */,
 			);
 			path = PlaygroundsLinkedInCourse;
 			sourceTree = "<group>";
@@ -158,6 +171,7 @@
 		EFC228DB266248AB00D23AC3 /* CombinePlayground */ = {
 			isa = PBXGroup;
 			children = (
+				EF1A74CE2779E4A600E23F06 /* Some */,
 				EF7CA762270BAD5400789EB3 /* WWDC */,
 				EF996F2A270332860035FCD7 /* PlaygroundsLinkedInCourse */,
 				EF90E0A226625597002FE661 /* Playgrounds */,
